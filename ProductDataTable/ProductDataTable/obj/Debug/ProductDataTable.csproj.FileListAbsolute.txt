@@ -1,0 +1,7 @@
+D:\Phase 2 Assignments\D7 Assignment 7\ProductDataTable\ProductDataTable\bin\Debug\ProductDataTable.exe.config
+D:\Phase 2 Assignments\D7 Assignment 7\ProductDataTable\ProductDataTable\bin\Debug\ProductDataTable.exe
+D:\Phase 2 Assignments\D7 Assignment 7\ProductDataTable\ProductDataTable\bin\Debug\ProductDataTable.pdb
+D:\Phase 2 Assignments\D7 Assignment 7\ProductDataTable\ProductDataTable\obj\Debug\ProductDataTable.csproj.AssemblyReference.cache
+D:\Phase 2 Assignments\D7 Assignment 7\ProductDataTable\ProductDataTable\obj\Debug\ProductDataTable.csproj.CoreCompileInputs.cache
+D:\Phase 2 Assignments\D7 Assignment 7\ProductDataTable\ProductDataTable\obj\Debug\ProductDataTable.exe
+D:\Phase 2 Assignments\D7 Assignment 7\ProductDataTable\ProductDataTable\obj\Debug\ProductDataTable.pdb
